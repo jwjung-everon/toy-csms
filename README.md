@@ -62,3 +62,7 @@
 │
 └──← billing.payment ←───────┘
 ```
+
+---
+## 5. 구조도 이미지
+<img width="1322" height="1056" alt="image" src="https://github.com/user-attachments/assets/ebed23d8-1ce7-433d-abb8-29b4b6c0dec3" />
